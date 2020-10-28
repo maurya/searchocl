@@ -33,7 +33,7 @@ class Searchocl_Widget extends WP_Widget
         }
         echo '<div class="search-container">
     <form class="form-inline" action="https://www.openconceptlab.org/search/">
-      <input type="text" placeholder="Search OCL.." name="q">
+      <input type="text" placeholder="Search OCL..." name="q">
       <button type="submit"><i class="fa fa-search"></i></button>
     </form>
   </div>';
